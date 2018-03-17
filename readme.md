@@ -30,11 +30,11 @@
 
 * Getting Started
   * Example Assignment
-  * [w1-example](...)
+  * [w1-example](https://github.com/mic0331/FPPS/tree/master/w1-example)
 
 * Week 1: **Functions & Evaluations**
   * Recursion
-  * [w1-recfun](...)
+  * [w1-recfun](https://github.com/mic0331/FPPS/tree/master/w1-recfun)
 
 * Week 2: **Higher Order Functions**
   * Functional Sets
